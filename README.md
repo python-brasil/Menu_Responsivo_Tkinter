@@ -13,7 +13,7 @@ Libs usadas no projeto:
 
 ## Screenshot 
 
-none
+![tinywow_Gif para Readme _22362500](https://user-images.githubusercontent.com/126124866/236613954-89dc038d-c49c-4708-9abf-2ae6a66d9662.gif)
 
 ## Author
 
